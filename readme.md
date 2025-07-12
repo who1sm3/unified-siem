@@ -1,4 +1,4 @@
-# 📊 Wazuh SIEM Log Shipping Project
+# 📊 UNIFIED-CYBERSECURITY-DASHBOARD-FOR REAL-TIME-MONITORING-AND-INCIDENT-MANAGEMENT
 
 This project collects **Wazuh** alerts from a client server, forwards them to a custom Python backend API, stores them in a **PostgreSQL** database, and displays them in a **React** dashboard.
 
