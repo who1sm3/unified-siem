@@ -21,7 +21,7 @@ This project collects **Wazuh** alerts from a client server, forwards them to a 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://your-repo-url.git
+git clone https://github.com/who1sm3/unified-siem.git
 cd unified-siem
 ```
 
