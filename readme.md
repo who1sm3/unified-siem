@@ -180,7 +180,23 @@ Pull requests and suggestions are welcome!
 
 ## 📜 License
 
-Add your license text here.
+MIT License
+
+Copyright (c) 2025 [Your Name]
+
+This project was created as a Final Year Project for Multimedia University (MMU).
+
+Permission is granted, free of charge, to use, copy, modify, and distribute this software,
+subject to the following conditions:
+
+- This copyright and permission notice shall be included in all copies.
+- The software is provided "as is", without warranty of any kind.
+
+All trademarks and logos remain the property of their respective owners.
+
+Author: [Mohammad Amin] | Student ID: [1221302787]
+MMU Final Year Project 2025
+
 
 ---
 
