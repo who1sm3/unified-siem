@@ -182,7 +182,7 @@ Pull requests and suggestions are welcome!
 
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Mohammad Amin
 
 This project was created as a Final Year Project for Multimedia University (MMU).
 
@@ -194,7 +194,7 @@ subject to the following conditions:
 
 All trademarks and logos remain the property of their respective owners.
 
-Author: [Mohammad Amin] | Student ID: [1221302787]
+Author: Mohammad Amin | Student ID: 1221302787
 MMU Final Year Project 2025
 
 
